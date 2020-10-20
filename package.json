@@ -1,7 +1,7 @@
 {
   "name": "tailwindcss-orbit",
-  "version": "0.1.0",
-  "description": "Tailwind CSS plygin to generate Atlas AI Orbit theme.",
+  "version": "0.1.1",
+  "description": "Tailwind CSS plugin to generate Atlas AI's Orbit theme.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
