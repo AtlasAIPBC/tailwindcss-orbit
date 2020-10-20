@@ -1,0 +1,19 @@
+{
+  "name": "orbit-tailwindcss",
+  "version": "1.0.0",
+  "description": "Tailwind CSS plygin to generate Atlas AI Orbit theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtlasAIPBC/orbit-tailwindcss.git"
+  },
+  "author": "Atlas AI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtlasAIPBC/orbit-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/AtlasAIPBC/orbit-tailwindcss#readme"
+}
