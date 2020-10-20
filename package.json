@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-orbit",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Tailwind CSS plygin to generate Atlas AI Orbit theme.",
   "main": "index.js",
   "scripts": {
